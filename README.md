@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alok Sarkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<imag align="right" alt="Coding lover" width="400px" src=" https://images.app.goo.gl/xeDD85kmJQt6nMb67">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aloksarkar7085&label=Profile%20views&color=0e75b6&style=flat" alt="aloksarkar7085" /> </p>
 
